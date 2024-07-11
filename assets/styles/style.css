@@ -20,7 +20,7 @@ body {
 
 .backImg {
 
-    background: url(https://irp.cdn-website.com/ae0a0845/dms3rep/multi/eye-bg.png);
+    background: url('../img/eye-bg.png');
     height: 350px;
     width: 750px;
     background-position: 0 80%;
@@ -38,7 +38,7 @@ body {
     top: 15%;
     left: 260px;
     position: inherit;
-    background: url(https://irp.cdn-website.com/ae0a0845/dms3rep/multi/TES_logo.svg);
+    background: url('../img/TES_logo.svg');
     background-size: contain;
     background-repeat: no-repeat;
     height: 180px;
@@ -102,7 +102,7 @@ body {
     border-width: 0;
     align-items: start;
     position: relative;
-    background-image: url(https://lirp.cdn-website.com/ae0a0845/dms3rep/multi/opt/AMcAllister6-1280x960-148-transparent-1920w.png);
+    background-image: url('../img/AMcAllister6-1280x960-148-transparent-1920w.webp');
     border-style: solid;
     padding-right: calc((100% - 1200px)/2);
 
@@ -213,7 +213,7 @@ body {
         background-position: 100% 100%;
       
         position: relative;
-        background-image: url(https://lirp.cdn-website.com/ae0a0845/dms3rep/multi/opt/AMcAllister6-1280x960-148-transparent-1920w.png);
+        background-image: url('../img/AMcAllister6-1280x960-148-transparent-1920w.webp');
         
   
 }
@@ -240,7 +240,7 @@ body {
 @media(max-width:776px) {
     .backImg {
         overflow: hidden;
-        background: url(https://irp.cdn-website.com/ae0a0845/dms3rep/multi/eye-bg.png);
+        background: url('../img/eye-bg.png');
         height: 290px !important;
         width: auto !important;
         background-position: 0 80%;
@@ -319,7 +319,7 @@ body {
         background-position: bottom;
         background-color: transparent;
         background-repeat: no-repeat;
-        background-image: url(https://lirp.cdn-website.com/ae0a0845/dms3rep/multi/opt/AMcAllister6-1280x960-148-transparent-640w.png);
+        background-image: url('../img/AMcAllister6-1280x960-148-transparent-640w.webp');
     }
     .mainn::before {
         background-image: linear-gradient(180deg,#009aba 67%,transparent 100%);
